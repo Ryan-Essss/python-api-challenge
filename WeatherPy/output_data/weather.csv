@@ -1,4 +1,4 @@
-,City,Max Temp (F),Humidity,Cloudiness,Wind Speed (mph),Lat,Lng,Country
+,City,Max Temp (F),Humidity (%),Cloudiness (%),Wind Speed (mph),Lat,Lng,Country
 0,Half Moon Bay,61.0,71,1,8.05,37.4636,-122.4286,US
 1,Rocha,63.48,94,3,4.12,-34.4833,-54.3333,UY
 2,Dauphin,-22.0,63,1,12.66,51.1494,-100.0502,CA
